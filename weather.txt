@@ -1,6 +1,6 @@
-<HTML>
-<HEADER><TITLE> Browser Tab</TITLE></HEADER>
-<BODY style="background-color: #C8A2C8">
+<index.HTML>
+<HEADER><TITLE> See on browser tab </TITLE></HEADER>
+<BODY style="background-color: #8ab7ff">
 <a class="weatherwidget-io" href="https://forecast7.com/en/43d65n79d38/toronto/" datalabel_1="TORONTO" data-label_2="WEATHER" data-theme="original" >TORONTO WEATHER</a>
 <script>
 !function(d,s,id){var
@@ -11,13 +11,7 @@ js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement
 <BR>
 <BR>
 <BR>
-<BR>
 <a href="https://forecast7.com/en/43d65n79d38/toronto/"t</a>
 Weather in Toronto today
-<BR>
-<BR>
 </BODY>
-<a href="https://en.wikipedia.org/wiki/Emily_(2022_film)">EMILY</a>
-</BODY>
-
 </HTML> 
